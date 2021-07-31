@@ -37,6 +37,15 @@
 7. Pasamos los datos de couchdb a mongodb, enviamos y almacenamos en colecciones dentro de la base de datos llamada "examen"
 ![image](https://user-images.githubusercontent.com/66236038/127725245-b3499a4a-ec3a-4501-a007-90c4fa20e3dc.png)
 
+8. Pasamos la base de datos examenes de mongo db a mongo db atlas, pero antes de eso las demas bases de datos que estaban en mongo db de los puntos 3 y 4 lo pase como coleccion dentro de examen 
+![image](https://user-images.githubusercontent.com/66236038/127726084-752bf92f-db5e-40c5-825b-b9d2781a0e0a.png)
+ y luego se envio a mongo db atlas 
+ ![image](https://user-images.githubusercontent.com/66236038/127726097-954cc2e7-e448-40ed-95d6-0bd2975aa432.png)
+
+9. Pasar los datos de mongodb atlas a csv 
+
+10. Pasar los datos de mongodb atlas a json
+
 
 
 
