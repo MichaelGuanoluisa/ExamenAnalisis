@@ -14,10 +14,10 @@
     "import json\n",
     "\n",
     "####### API #########\n",
-    "ckey= \"GsesWE56JNhaKjjNzwDbt9OX0\"\n",
-    "csecret= \"N0LhAOIE7VGY48KXIdf3mZDa16X8V2EIyw8GOcgXlhDJCJdOSh\"\n",
-    "atoken= \"853206853-mFc879DxKlJG6XSBsDPrnni4Z1BH40cORcZ6tx7f\"\n",
-    "asecret= \"irs08IxIvPDkRJ8fPngaxUGFw3flYdnAMtiIex7Ch3sPT\"\n",
+    "ckey= \"n",
+    "csecret= \"n",
+    "atoken= \"n",
+    "asecret= \"\n",
     "######################\n",
     "\n"
    ]
